@@ -1,4 +1,3 @@
 # Título
 
-[Home 1]
-(./1.md)
+[Home 1](1.md)
